@@ -27,9 +27,8 @@ import androidx.compose.ui.text.withLink
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.example.therapist.presentation.event.Events
 import com.example.therapist.presentation.destination.Destination
-import com.example.therapist.presentation.viewmodel.GetUserInfoViewModel
+import com.example.therapist.presentation.event.Events
 import com.example.therapist.presentation.viewmodel.TherapistViewModel
 import com.example.therapist.ui.theme.MessageBackgroundColor
 
