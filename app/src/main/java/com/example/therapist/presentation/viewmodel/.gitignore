@@ -1,0 +1,14 @@
+# Build qovluqları (Lazımsızlar)
+build/
+app/build/
+.gradle/
+Captures/
+
+# Lokal tənzimləmələr (Hər kəsdə fərqli olanlar)
+local.properties
+.idea/workspace.xml
+.idea/libraries
+.DS_Store
+
+# Log faylları
+*.log
